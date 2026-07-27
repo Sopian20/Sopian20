@@ -11,7 +11,7 @@
   </pre>
 </div>
 
-# Halo, Saya [Nama Kamu] 👋
+# Halo, Saya Sopian Ansari 👋
 
 Seorang **Tech & Automation Enthusiast** yang berfokus pada pengembangan alat bantu, pengolahan data, dan otomatisasi alur kerja.
 

@@ -1,4 +1,11 @@
+<div align="center">
+
+<!-- Banner -->
+<img src="https://i.ibb.co.com/mrdP2qM0/1785125976263.png" alt="Sopian Banner" width="100%" />
+
 # 💫 About Me
+
+<img src="https://custom-icon-badges.demolab.com/static/v1?label=DUITIN&message=---%20SMART%20FINANCIAL%20TRACKER%20&%20MANAGEMENT%20SYSTEM%20---&color=33cc99&style=for-the-badge&logoColor=33cc99" alt="DUITIN Logo" width="100%" />
 
 🔭 **I’m currently working on:** Web3 & AI Projects  
 👯 **I’m looking to collaborate on:** Open-source Python & AI tools  
@@ -46,14 +53,14 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### 💬 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</p>
+> *"Stop terlalu fokus sama orang lain dan hal-hal yang ga bisa kita kendalikan. Focus on yourself. Grow your own wings, and fly high!"*
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sopian20&icon=4&color=3" alt="Profile Views" />
 </p>
+
+</div>

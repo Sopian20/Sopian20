@@ -1,42 +1,53 @@
-<img src="https://raw.githubusercontent.com/username-kamu/nama-repo/main/banner.png" alt="Banner" width="100%"/>
+<div align="center">
+  <pre style="background-color: #0d1117; color: #ffffff; font-weight: bold; text-shadow: 0px 0px 8px #ffffff, 0px 0px 15px #ffffff; padding: 20px; border-radius: 8px; line-height: 1.2;">
+ __Wildcard__       _____ _     _____ ______  ___  ___ _____ 
+ \ \ \ \ \ \  /  ___| |   /  __ \|  _  ||  \/  ||  ___|
+  \ \ \ \ \ \ | |__ | |   | /  \/| | | || .  . || |__  
+   > > > > > >|  __|| |   | |    | | | || |\/| ||  __| 
+  / / / / / / | |___| |___| \__/\\ \_/ /| |  | || |___ 
+ /_/_/_/_/_/  \____/\_____/\____/ \___/ \_|  |_/\____/ 
 
-# Hi there, I'm [Nama Kamu] 👋
+           Tech & Automation Enthusiast | Bot Developer
+  </pre>
+</div>
 
-A passionate **Tech & Automation Enthusiast** focused on building tools, exploring data, and automating workflows.
+# Halo, Saya [Nama Kamu] 👋
+
+Seorang **Tech & Automation Enthusiast** yang berfokus pada pengembangan alat bantu, pengolahan data, dan otomatisasi alur kerja.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on: **Trading bots & custom Pine Script strategies**
-- 🌱 I’m currently learning: **Advanced Algorithmic Trading & Backend Development**
-- ⚡ Fun fact: I love combining technical analysis with code to find clean, automated solutions.
+### 🚀 Tentang Saya
+- 🔭 **Proyek Saat Ini:** Mengembangkan bot trading & strategi kustom berbasis Pine Script.
+- 🌱 **Sedang Mempelajari:** *Algorithmic Trading* tingkat lanjut & *Backend Development*.
+- ⚡ **Fakta Unik:** Suka menggabungkan analisis teknikal dengan kode untuk menciptakan solusi otomatisasi yang efisien.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Bahasa & Alat Kerja
 
-**Languages & Scripting**
+**Bahasa Pemrograman & Skrip**
 ![PineScript](https://img.shields.io/badge/PineScript-22092C?style=for-the-badge&logo=tradingview&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Environment**
+**Alat & Lingkungan Kerja**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radial" alt="Statistik GitHub" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radial" alt="Bahasa Populer" />
 </p>
 
 ---
 
-### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)
-- **Email:** emailkamu@example.com
+### 📬 Kontak Saya
+- **Email:** sopianansar8@gmail.com
+- **TikTok:** [@web3xai](https://www.tiktok.com/@web3xai)
+- 

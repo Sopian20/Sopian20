@@ -4,6 +4,12 @@
 
 <br/>
 
+<!-- Hidden Background Audio with Autoplay & Loop -->
+<audio autoplay loop>
+  <source src="https://mp3tourl.com/audio/1785595093482-e1660723-039f-4d42-b2b8-285a1893b6db.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 # 💫 About Me
 
 🔭 **I’m currently working on:** Web3 & AI Projects  
@@ -44,10 +50,25 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sopian20&theme=dracula&hide_border=true" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sopian20&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Sopian20&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sopian20&theme=dracula&no_frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" width="95%" />
+</div>
+
+---
+
+## 🏆 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sopian20&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
